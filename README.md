@@ -13,6 +13,10 @@
 ![CockroachDB](docs/media/cockroach_db.png?raw=true "CockroachDB logo")
 =======================================================================
 
+Install the Helm client (version 3.0 or higher) and add the cockroachdb chart repository:  
+
+https://www.cockroachlabs.com/docs/stable/orchestrate-cockroachdb-with-kubernetes.html#step-2-start-cockroachdb. 
+
 CockroachDB is a cloud-native SQL database for building global, scalable cloud services that survive disasters.
 
 [![TeamCity CI](https://teamcity.cockroachdb.com/guestAuth/app/rest/builds/buildType:(id:Cockroach_UnitTests)/statusIcon.svg)](https://teamcity.cockroachdb.com/viewLog.html?buildTypeId=Cockroach_UnitTests&buildId=lastFinished&guest=1)
