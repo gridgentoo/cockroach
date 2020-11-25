@@ -244,7 +244,7 @@
 
 "@types/redux-thunk@^2.1.0":
   version "2.1.0"
-  resolved "http://registry.npmjs.org/@types/redux-thunk/-/redux-thunk-2.1.0.tgz#bc2b6e972961831afb82a9bf4f06726e351f9416"
+  resolved "https://registry.npmjs.org/@types/redux-thunk/-/redux-thunk-2.1.0.tgz#bc2b6e972961831afb82a9bf4f06726e351f9416"
   dependencies:
     redux-thunk "*"
 
@@ -2789,7 +2789,7 @@ faye-websocket@~0.11.0:
 
 fbjs@^0.6.1:
   version "0.6.1"
-  resolved "http://registry.npmjs.org/fbjs/-/fbjs-0.6.1.tgz#9636b7705f5ba9684d44b72f78321254afc860f7"
+  resolved "https://registry.npmjs.org/fbjs/-/fbjs-0.6.1.tgz#9636b7705f5ba9684d44b72f78321254afc860f7"
   dependencies:
     core-js "^1.0.0"
     loose-envify "^1.0.0"
@@ -3301,9 +3301,10 @@ he@1.2.0:
   resolved "https://registry.yarnpkg.com/he/-/he-1.2.0.tgz#84ae65fa7eafb165fddb61566ae14baf05664f0f"
   integrity sha512-F/1DnUGPopORZi0ni+CvrCgHQ5FyEAHRLSApuYWMmrbSwoN2Mn/7k+Gl38gJnR7yyDZk6WLXwiGod1JOWNDKGw==
 
-highlight.js@^9.10.0:
-  version "9.10.0"
-  resolved "https://registry.yarnpkg.com/highlight.js/-/highlight.js-9.10.0.tgz#f9f0b14c0be00f0e4fb1e577b749fed9e6f52f55"
+highlight.js@^10.1.2:
+  version "10.1.2"
+  resolved "https://registry.yarnpkg.com/highlight.js/-/highlight.js-10.1.2.tgz#c20db951ba1c22c055010648dfffd7b2a968e00c"
+  integrity sha512-Q39v/Mn5mfBlMff9r+zzA+gWxRsCRKwEMvYTiisLr/XUiFI/4puWt0Ojdko3R3JCNWGdOWaA5g/Yxqa23kC5AA==
 
 history@^3.0.0:
   version "3.3.0"
@@ -6576,7 +6577,7 @@ through2@^2.0.0:
 
 through@~2.3.4:
   version "2.3.8"
-  resolved "http://registry.npmjs.org/through/-/through-2.3.8.tgz#0dd4c9ffaabc357960b1b724115d7e0e86a2e1f5"
+  resolved "https://registry.npmjs.org/through/-/through-2.3.8.tgz#0dd4c9ffaabc357960b1b724115d7e0e86a2e1f5"
 
 thunky@^1.0.2:
   version "1.0.3"
@@ -7098,7 +7099,7 @@ whatwg-fetch@>=0.10.0, whatwg-fetch@^2.0.3:
 
 whatwg-fetch@^0.9.0:
   version "0.9.0"
-  resolved "http://registry.npmjs.org/whatwg-fetch/-/whatwg-fetch-0.9.0.tgz#0e3684c6cb9995b43efc9df03e4c365d95fd9cc0"
+  resolved "https://registry.npmjs.org/whatwg-fetch/-/whatwg-fetch-0.9.0.tgz#0e3684c6cb9995b43efc9df03e4c365d95fd9cc0"
 
 when@~3.6.x:
   version "3.6.4"
