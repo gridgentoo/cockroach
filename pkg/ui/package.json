@@ -10,7 +10,7 @@
     "classnames": "^2.2.5",
     "combokeys": "^2.4.6",
     "highlight.js": "^9.10.0",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.21",
     "moment": "^2.19.3",
     "nvd3": "^1.8.5",
     "popper.js": "^1.14.4",
